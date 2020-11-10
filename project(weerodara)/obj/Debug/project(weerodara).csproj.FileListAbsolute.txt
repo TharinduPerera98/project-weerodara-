@@ -1,0 +1,74 @@
+C:\Users\Jude Nirmal\source\repos\project(weerodara)\project(weerodara)\bin\Debug\project(weerodara).exe.config
+C:\Users\Jude Nirmal\source\repos\project(weerodara)\project(weerodara)\bin\Debug\project(weerodara).exe
+C:\Users\Jude Nirmal\source\repos\project(weerodara)\project(weerodara)\bin\Debug\project(weerodara).pdb
+C:\Users\Jude Nirmal\source\repos\project(weerodara)\project(weerodara)\obj\Debug\project(weerodara).csprojAssemblyReference.cache
+C:\Users\Jude Nirmal\source\repos\project(weerodara)\project(weerodara)\obj\Debug\project_weerodara_.Form1.resources
+C:\Users\Jude Nirmal\source\repos\project(weerodara)\project(weerodara)\obj\Debug\project_weerodara_.Properties.Resources.resources
+C:\Users\Jude Nirmal\source\repos\project(weerodara)\project(weerodara)\obj\Debug\project(weerodara).csproj.GenerateResource.cache
+C:\Users\Jude Nirmal\source\repos\project(weerodara)\project(weerodara)\obj\Debug\project(weerodara).csproj.CoreCompileInputs.cache
+C:\Users\Jude Nirmal\source\repos\project(weerodara)\project(weerodara)\obj\Debug\project(weerodara).exe
+C:\Users\Jude Nirmal\source\repos\project(weerodara)\project(weerodara)\obj\Debug\project(weerodara).pdb
+C:\Users\Jude Nirmal\source\repos\project(weerodara)\project(weerodara)\obj\Debug\project_weerodara_.Form2.resources
+E:\project(weerodara)\project(weerodara)\bin\Debug\project(weerodara).exe.config
+E:\project(weerodara)\project(weerodara)\obj\Debug\project(weerodara).exe
+E:\project(weerodara)\project(weerodara)\obj\Debug\project(weerodara).pdb
+E:\project(weerodara)\project(weerodara)\bin\Debug\project(weerodara).exe
+E:\project(weerodara)\project(weerodara)\bin\Debug\project(weerodara).pdb
+E:\project(weerodara)\project(weerodara)\obj\Debug\project(weerodara).csprojResolveAssemblyReference.cache
+E:\project(weerodara)\project(weerodara)\obj\Debug\project_weerodara_.Form1.resources
+E:\project(weerodara)\project(weerodara)\obj\Debug\project_weerodara_.Form2.resources
+E:\project(weerodara)\project(weerodara)\obj\Debug\project_weerodara_.Properties.Resources.resources
+E:\project(weerodara)\project(weerodara)\obj\Debug\project(weerodara).csproj.GenerateResource.Cache
+E:\project(weerodara)\project(weerodara)\bin\Debug\MySql.Data.dll
+E:\project(weerodara)\project(weerodara)\bin\Debug\Google.Protobuf.dll
+E:\project(weerodara)\project(weerodara)\bin\Debug\BouncyCastle.Crypto.dll
+E:\project(weerodara)\project(weerodara)\bin\Debug\MySql.Data.xml
+E:\project(weerodara)\project(weerodara)\obj\Debug\project_weerodara_.Form3.resources
+E:\project(weerodara)\project(weerodara)\obj\Debug\project_weerodara_.Form4.resources
+E:\project(weerodara)\project(weerodara)\obj\Debug\project_weerodara_.Form5.resources
+E:\project(weerodara)\project(weerodara)\obj\Debug\project_weerodara_.Form6.resources
+E:\project(weerodara)\project(weerodara)\obj\Debug\project_weerodara_.Form7.resources
+F:\New folder\project(weerodara)\project(weerodara)\bin\Debug\project(weerodara).exe.config
+F:\New folder\project(weerodara)\project(weerodara)\obj\Debug\project(weerodara).exe
+F:\New folder\project(weerodara)\project(weerodara)\obj\Debug\project(weerodara).pdb
+F:\weerodara\project(weerodara)\project(weerodara)\bin\Debug\project(weerodara).exe.config
+F:\weerodara\project(weerodara)\project(weerodara)\obj\Debug\project(weerodara).exe
+F:\weerodara\project(weerodara)\project(weerodara)\obj\Debug\project(weerodara).pdb
+F:\weerodara\project(weerodara)\project(weerodara)\bin\Debug\project(weerodara).exe
+F:\weerodara\project(weerodara)\project(weerodara)\bin\Debug\project(weerodara).pdb
+F:\weerodara\project(weerodara)\project(weerodara)\bin\Debug\Google.Protobuf.dll
+F:\weerodara\project(weerodara)\project(weerodara)\bin\Debug\BouncyCastle.Crypto.dll
+F:\weerodara\project(weerodara)\project(weerodara)\bin\Debug\MySql.Data.xml
+F:\weerodara\project(weerodara)\project(weerodara)\obj\Debug\project(weerodara).csprojResolveAssemblyReference.cache
+F:\weerodara\project(weerodara)\project(weerodara)\obj\Debug\project_weerodara_.Form1.resources
+F:\weerodara\project(weerodara)\project(weerodara)\obj\Debug\project_weerodara_.Form2.resources
+F:\weerodara\project(weerodara)\project(weerodara)\obj\Debug\project_weerodara_.Form3.resources
+F:\weerodara\project(weerodara)\project(weerodara)\obj\Debug\project_weerodara_.Form4.resources
+F:\weerodara\project(weerodara)\project(weerodara)\obj\Debug\project_weerodara_.Form5.resources
+F:\weerodara\project(weerodara)\project(weerodara)\obj\Debug\project_weerodara_.Form6.resources
+F:\weerodara\project(weerodara)\project(weerodara)\obj\Debug\project_weerodara_.Form7.resources
+F:\weerodara\project(weerodara)\project(weerodara)\obj\Debug\project_weerodara_.Properties.Resources.resources
+F:\weerodara\project(weerodara)\project(weerodara)\obj\Debug\project(weerodara).csproj.GenerateResource.Cache
+E:\Personal Files\weerodara\project(weerodara)\project(weerodara)\bin\Debug\project(weerodara).exe.config
+E:\Personal Files\weerodara\project(weerodara)\project(weerodara)\obj\Debug\project(weerodara).exe
+E:\Personal Files\weerodara\project(weerodara)\project(weerodara)\obj\Debug\project(weerodara).pdb
+E:\Personal Files\weerodara\project(weerodara)\project(weerodara)\bin\Debug\project(weerodara).exe
+E:\Personal Files\weerodara\project(weerodara)\project(weerodara)\bin\Debug\project(weerodara).pdb
+E:\Personal Files\weerodara\project(weerodara)\project(weerodara)\bin\Debug\Google.Protobuf.dll
+E:\Personal Files\weerodara\project(weerodara)\project(weerodara)\bin\Debug\BouncyCastle.Crypto.dll
+E:\Personal Files\weerodara\project(weerodara)\project(weerodara)\bin\Debug\MySql.Data.xml
+E:\Personal Files\weerodara\project(weerodara)\project(weerodara)\obj\Debug\project(weerodara).csprojResolveAssemblyReference.cache
+E:\Personal Files\weerodara\project(weerodara)\project(weerodara)\obj\Debug\project_weerodara_.Form1.resources
+E:\Personal Files\weerodara\project(weerodara)\project(weerodara)\obj\Debug\project_weerodara_.Form2.resources
+E:\Personal Files\weerodara\project(weerodara)\project(weerodara)\obj\Debug\project_weerodara_.Form3.resources
+E:\Personal Files\weerodara\project(weerodara)\project(weerodara)\obj\Debug\project_weerodara_.Form4.resources
+E:\Personal Files\weerodara\project(weerodara)\project(weerodara)\obj\Debug\project_weerodara_.Form5.resources
+E:\Personal Files\weerodara\project(weerodara)\project(weerodara)\obj\Debug\project_weerodara_.Form7.resources
+E:\Personal Files\weerodara\project(weerodara)\project(weerodara)\obj\Debug\project_weerodara_.Properties.Resources.resources
+E:\Personal Files\weerodara\project(weerodara)\project(weerodara)\obj\Debug\project(weerodara).csproj.GenerateResource.Cache
+E:\Personal Files\weerodara\project(weerodara)\project(weerodara)\obj\Debug\project_weerodara_.Form8.resources
+E:\Personal Files\weerodara\project(weerodara)\project(weerodara)\obj\Debug\project_weerodara_.Form10.resources
+E:\Personal Files\weerodara\project(weerodara)\project(weerodara)\obj\Debug\project_weerodara_.Form9.resources
+E:\Personal Files\weerodara\project(weerodara)\project(weerodara)\obj\Debug\project_weerodara_.Form11.resources
+E:\Personal Files\weerodara\project(weerodara)\project(weerodara)\obj\Debug\project_weerodara_.Form12.resources
+E:\Personal Files\weerodara\project(weerodara)\project(weerodara)\obj\Debug\project_weerodara_.Form13.resources
