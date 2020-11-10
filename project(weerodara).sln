@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "project(weerodara)", "project(weerodara)\project(weerodara).csproj", "{927BFD41-861C-46F2-B234-C1C0C7720E57}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "LS Ambalantota", "LS Ambalantota\LS Ambalantota.vdproj", "{C71CA4D3-2739-4715-BA5C-4D84070F6BFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{927BFD41-861C-46F2-B234-C1C0C7720E57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{927BFD41-861C-46F2-B234-C1C0C7720E57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{927BFD41-861C-46F2-B234-C1C0C7720E57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{927BFD41-861C-46F2-B234-C1C0C7720E57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C71CA4D3-2739-4715-BA5C-4D84070F6BFB}.Debug|Any CPU.ActiveCfg = Debug
+		{C71CA4D3-2739-4715-BA5C-4D84070F6BFB}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8A43B7E-2F49-446C-8DFC-72ECB6D66F32}
+	EndGlobalSection
+EndGlobal
